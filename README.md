@@ -5,7 +5,7 @@
 2. Shade in geographic areas based on the level of a numeric variable (choropleth maps)
 3. Shade in geographic areas not based on any numeric variable (service area maps)
 
-#### All you need to know and do is:
+#### All you need to do is:
 1. Add data to the "Data" sheets in the Excel files in the ./input folder. You can use the "README" and "Example" tabs for help on how your data should be organized.
     * Start_Maps.xlsx (required) - This is the power center of your map making automation. You put the specs for each map you want made in this file.
     * Lat_Long_Data.xlsx (optional) - Data for plotting coordinates on the map.
