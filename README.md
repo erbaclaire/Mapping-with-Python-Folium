@@ -1,5 +1,7 @@
 # Mapping-with-Python-Folium
 
+![](images/map.png)
+
 #### Make beautiful maps that can:
 1. Plot (longitude, latitude) coordinate points
 2. Shade in geographic areas based on the level of a numeric variable (choropleth maps)
