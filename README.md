@@ -1,6 +1,6 @@
 # Mapping-with-Python-Folium
 
-![](images/map.png)
+![](images/sa_w_coord_ex.PNG)
 
 #### Make beautiful maps that can:
 1. Plot (longitude, latitude) coordinate points
