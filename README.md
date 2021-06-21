@@ -7,11 +7,11 @@
 
 #### All you need to know and do is:
 1. Add data to the "Data" sheets in the Excel files in the ./input folder. You can use the "README" and "Example" tabs for help on how your data should be organized.
-⇥* Start_Maps.xlsx (required) - This is the power center of your map making automation. You put the specs for each map you want made in this file.
-⇥* Lat_Long_Data.xlsx (optional) - Data for plotting coordinates on the map.
-⇥* Color_Map.xlsx (optional) - Can give different coordinates different colors based on a "Label" variable in your Lat_Long_Data.xlsx file.
-⇥* Choro_Map.xlsx (optional) - Shade in geographic areas based on the level of some variable (e.g., choropleth maps).
-⇥* SA_Data.xlsx (optional) - Shade in geographic areas not based on the level of some variable (e.g., service area maps).
+⇥ * Start_Maps.xlsx (required) - This is the power center of your map making automation. You put the specs for each map you want made in this file.
+⇥ * Lat_Long_Data.xlsx (optional) - Data for plotting coordinates on the map.
+⇥ * Color_Map.xlsx (optional) - Can give different coordinates different colors based on a "Label" variable in your Lat_Long_Data.xlsx file.
+⇥ * Choro_Map.xlsx (optional) - Shade in geographic areas based on the level of some variable (e.g., choropleth maps).
+⇥ * SA_Data.xlsx (optional) - Shade in geographic areas not based on the level of some variable (e.g., service area maps).
   
 2. Run the code in a Jupyter notebook
   * Navigate to the "./programs" directory.
